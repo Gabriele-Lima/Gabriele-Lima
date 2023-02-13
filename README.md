@@ -1,5 +1,11 @@
 ### <h1 align="center">Olá, eu sou Gabriele!</h1>
-<p>◈ Cursando Sistemas da Informação na PUC-MG (4° semestre).</p> 
+<p>◈ Cursando Sistemas da Informação na PUC-MG (4° semestre).</p>
+
+<div align="center">
+  <a href="https://github.com/Gabriele-Lima">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriele-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-lima&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div align="center"><br>
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
