@@ -1,5 +1,5 @@
 ### <h1 align="center">Olá, eu sou Gabriele!</h1>
-<h3>◈ Cursando Sistemas da Informação na PUC-MG (4° semestre).</h3> 
+<p>◈ Cursando Sistemas da Informação na PUC-MG (4° semestre).</p> 
 
 <div align="center">
   <a href="https://github.com/viniciusdamascenosouza">
